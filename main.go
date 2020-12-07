@@ -2,11 +2,18 @@ package main
 
 import (
 	"fmt"
+
 	"./model"
 )
 
-func main(){
+func main() {
 	fmt.Println("hellofo world")
-	fmt.Println("first commit")
+	fmt.Println("hellofo world")
+	fmt.Println("hellofo world")
+	fmt.Println("hellofo world")
+	fmt.Println("hellofo world")
+	fmt.Println("hellofo world")
+	fmt.Println("hellofo world")
+	fmt.Println("hellofo world")
 	model.Testfunc()
 }
